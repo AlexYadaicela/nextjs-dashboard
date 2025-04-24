@@ -9,6 +9,8 @@ const users = [
   },
 ];
 
+
+
 const customers = [
   {
     id: 'd6e15727-9fe1-4961-8c5b-ea44a9bd81aa',
@@ -143,5 +145,4 @@ const revenue = [
   { month: 'Nov', revenue: 3000 },
   { month: 'Dec', revenue: 4800 },
 ];
-
 export { users, customers, invoices, revenue };
